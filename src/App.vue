@@ -3,14 +3,9 @@
     <div class="p-4">
       <div class="mt-12 flex space-x-4 items-center">
         <h1 class="text-4xl font-bold text-gray-900 dark:text-white">Simple UI</h1>
-        <div class="flex">
-          <a href="https://zernonia.com" target="_blank">
-            <IconUser class="w-8 h-8 text-gray-900 dark:text-white"></IconUser>
-          </a>
-          <a href="https://github.com/zernonia" target="_blank">
-            <IconGithub class="w-8 h-8 text-gray-900 dark:text-white"></IconGithub>
-          </a>
-        </div>
+        <a href="https://github.com/zernonia/bank-green-test" target="_blank">
+          <IconGithub class="w-8 h-8 text-gray-900 dark:text-white"></IconGithub>
+        </a>
         <label for="toggleB" class="flex items-center cursor-pointer">
           <div class="relative w-full">
             <span class="absolute top-1 left-1">🌙</span>
